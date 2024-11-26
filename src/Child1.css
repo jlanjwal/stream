@@ -1,0 +1,10 @@
+.tooltip {
+    position: absolute;
+    visibility: hidden;
+    opacity: 100;
+    background-color: rgb(253, 221, 221);
+    color: rgb(0, 0, 0);
+    border-radius: 4px;
+    padding: 8px;
+    font-size: 12px;
+}
